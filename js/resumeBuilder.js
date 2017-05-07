@@ -21,7 +21,7 @@ var bio = {
     display : function() {
 
     }
-}
+};
 
 var education = {
     schools : [
@@ -57,7 +57,7 @@ var education = {
     display : function() {
 
     }
-}
+};
 
 var work = {
     jobs : [
@@ -79,7 +79,7 @@ var work = {
     display : function() {
 
     }
-}
+};
 
 var projects = {
     projects : [
@@ -99,4 +99,4 @@ var projects = {
     display : function() {
         
     }
-}
+};
