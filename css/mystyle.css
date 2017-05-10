@@ -1,0 +1,21 @@
+#header {
+    background: #263b55;
+}
+#lets-connect {
+    background: black;
+}
+#lets-connect h2 {
+    color: white;
+}
+#workExperience {
+    background: ;
+}
+
+#name + span {
+    color: #fff;
+    text-decoration: overline;
+}
+
+h1 {
+    color: #f7f9f9;
+}
